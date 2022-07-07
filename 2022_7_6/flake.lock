@@ -93,7 +93,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "honeycomb": "honeycomb",
         "nixpkgs": "nixpkgs",
-        "src-matext-master": "src-matext-master"
+        "src-matext-2022_7_6": "src-matext-2022_7_6"
       }
     },
     "src-cligen-v1_5_24": {
@@ -130,19 +130,19 @@
         "type": "github"
       }
     },
-    "src-matext-master": {
+    "src-matext-2022_7_6": {
       "flake": false,
       "locked": {
         "lastModified": 1657062173,
         "narHash": "sha256-T9XgNmqIkEVvJrDH31xHE7TcDBQvdlBkb4Cd91tfQnA=",
         "owner": "~xigoi",
         "repo": "matext",
-        "rev": "20e97f70bc9152669ebdfcd84ad60687ab932fa4",
+        "rev": "3e2ca757f0906142fe7bbd976d78f33d71e840fa",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~xigoi",
-        "ref": "master",
+        "ref": "2022.7.6",
         "repo": "matext",
         "type": "sourcehut"
       }
